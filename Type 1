@@ -1,4 +1,4 @@
-print('Welcome to googl.weather - the broken weather app')
+print('Welcome to blank.weather - the broken weather app')
 print('----------------------------')
 #Asking the weather type
 weather = input('What is the weather like? (rainy, sunny, cloudy, windy, or foggy) ')
